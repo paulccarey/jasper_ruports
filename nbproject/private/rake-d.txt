@@ -1,3 +1,0 @@
-build=Build jasper_ruports-0.0.1.gem into the pkg directory
-install=Build and install jasper_ruports-0.0.1.gem into system gems
-release=Create tag v0.0.1 and build and push jasper_ruports-0.0.1.gem to Rubygems
